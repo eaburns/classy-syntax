@@ -1,5 +1,5 @@
 # classy-syntax theme
 
-A short description of your theme.
-
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+A dark-on-light syntax theme with minimal coloring, for Atom.
+Light grey for strings, even lighter grey for comments.
+That's about it.
